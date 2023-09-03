@@ -1,0 +1,15 @@
+@import '../abstract/variaveis';
+
+
+footer{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: $cor-primaria;
+    color: $cor-terciaria;
+    font-size: $tamanho-do-texto/1.5;
+    border-top: 2px solid $cor-primaria;
+    margin-top: 1rem;
+    padding: 1.2rem;
+}
+
+
